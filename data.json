@@ -1,0 +1,122 @@
+[
+    {
+        "attendance": {
+            "lecture": "92",
+            "lectut": "92",
+            "practical": "N/A",
+            "tutorial": "N/A"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=180080&amp;LTP=LT&amp;mRegConfirmDate=04-01-2019&amp;prevTFSTID=&amp;prevLFSTID=&amp;mLFSTID=JUET1801845&amp;mTFSTID=",
+        "subject": "AI AND COGNITIVE SCIENCES - 18B11CI611"
+    },
+    {
+        "attendance": {
+            "lecture": "N/A",
+            "lectut": "N/A",
+            "practical": "80",
+            "tutorial": "N/A"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=180081&amp;LTP=P&amp;&amp;mRegConfirmDate=04-01-2019&amp;prevPFSTID=&amp;mPFSTID=JUET1801860",
+        "subject": "ARTIFICIAL INTELLIGENCE LAB - 18B17CI671"
+    },
+    {
+        "attendance": {
+            "lecture": "83",
+            "lectut": "83",
+            "practical": "N/A",
+            "tutorial": "83"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=150154&amp;LTP=LT&amp;mRegConfirmDate=04-01-2019&amp;prevTFSTID=&amp;prevLFSTID=&amp;mLFSTID=JUET1801869&amp;mTFSTID=JUET1801878",
+        "subject": "COMPILER DESIGN - 14B11CI612"
+    },
+    {
+        "attendance": {
+            "lecture": "N/A",
+            "lectut": "N/A",
+            "practical": "88",
+            "tutorial": "N/A"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=150159&amp;LTP=P&amp;&amp;mRegConfirmDate=04-01-2019&amp;prevPFSTID=&amp;mPFSTID=JUET1801887",
+        "subject": "COMPILER DESIGN LAB - 14B17CI672"
+    },
+    {
+        "attendance": {
+            "lecture": "87",
+            "lectut": "87",
+            "practical": "N/A",
+            "tutorial": "N/A"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=190004&amp;LTP=LT&amp;mRegConfirmDate=04-01-2019&amp;prevTFSTID=&amp;prevLFSTID=&amp;mLFSTID=JUET1801911&amp;mTFSTID=",
+        "subject": "COMPUTER ORGANISATION AND ARCHITECTURE - 17B11CI612"
+    },
+    {
+        "attendance": {
+            "lecture": "N/A",
+            "lectut": "N/A",
+            "practical": "75",
+            "tutorial": "N/A"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=150157&amp;LTP=P&amp;&amp;mRegConfirmDate=04-01-2019&amp;prevPFSTID=&amp;mPFSTID=JUET1801920",
+        "subject": "COMPUTER ORGANISATION AND ARCHITECTURE LAB - 14B17CI673"
+    },
+    {
+        "attendance": {
+            "lecture": "82",
+            "lectut": "83",
+            "practical": "N/A",
+            "tutorial": "87"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=170049&amp;LTP=LT&amp;mRegConfirmDate=04-01-2019&amp;prevTFSTID=&amp;prevLFSTID=&amp;mLFSTID=JUET1801929&amp;mTFSTID=JUET1801938",
+        "subject": "DATA SCIENCE - 17B11CI611"
+    },
+    {
+        "attendance": {
+            "lecture": "N/A",
+            "lectut": "N/A",
+            "practical": "100",
+            "tutorial": "N/A"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=170050&amp;LTP=P&amp;&amp;mRegConfirmDate=04-01-2019&amp;prevPFSTID=&amp;mPFSTID=JUET1801947",
+        "subject": "DATA SCIENCE LAB - 17B17CI671"
+    },
+    {
+        "attendance": {
+            "lecture": "100",
+            "lectut": "92",
+            "practical": "N/A",
+            "tutorial": "80"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=170043&amp;LTP=LT&amp;mRegConfirmDate=04-01-2019&amp;prevTFSTID=&amp;prevLFSTID=&amp;mLFSTID=JUET1801717&amp;mTFSTID=JUET1801731",
+        "subject": "LOGICAL & QUANTITATIVE TECHNIQUE - 17B14HS641"
+    },
+    {
+        "attendance": {
+            "lecture": "N/A",
+            "lectut": "N/A",
+            "practical": "76",
+            "tutorial": "N/A"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=190003&amp;LTP=P&amp;&amp;mRegConfirmDate=04-01-2019&amp;prevPFSTID=&amp;mPFSTID=JUET1802008",
+        "subject": "SYSTEMS  AND NETWORK PROGRAMMING LAB - 17B17CI672"
+    },
+    {
+        "attendance": {
+            "lecture": "100",
+            "lectut": "100",
+            "practical": "N/A",
+            "tutorial": "N/A"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=180076&amp;LTP=LT&amp;mRegConfirmDate=04-01-2019&amp;prevTFSTID=&amp;prevLFSTID=&amp;mLFSTID=JUET1802022&amp;mTFSTID=",
+        "subject": "WEB DEVELOPMENT - 18B11CI613"
+    },
+    {
+        "attendance": {
+            "lecture": "N/A",
+            "lectut": "N/A",
+            "practical": "100",
+            "tutorial": "N/A"
+        },
+        "link": "ViewDatewiseLecAttendance.jsp?EXAM=2019EVESEM&amp;CTYPE=R&amp;SC=180077&amp;LTP=P&amp;&amp;mRegConfirmDate=04-01-2019&amp;prevPFSTID=&amp;mPFSTID=JUET1802031",
+        "subject": "WEB DEVELOPMENT LAB - 18B17CI674"
+    }
+]
