@@ -85,4 +85,9 @@ class Getattendance(APIView):
     	content=webkioskupdates.get_attendence(request.user.username,Profile.objects.get(user=request.user).webpass)
     	return Response(content)
 
+class GetDetailedAttendance(APIView):
+    def get(self, request):
+        print(request.user.password)
+        content=webkioskupdates.getExtendedAttendance(request.user.username,Profile.objects.get(user=request.user).webpass)
+        return Response(content)
 
