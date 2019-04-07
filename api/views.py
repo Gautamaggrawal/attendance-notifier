@@ -51,7 +51,7 @@ class RegisterUser(APIView):
             user_exists=Profile.objects.filter(phone=request.data.get("phone"))
             if not user_exists.exists():
                 return Response("You are not registered with us",status=400)
-            checkstudent=webkkiosk.checklogin(name,password)
+            checkstudent=webkioskupdates.checklogin(name,password)
             if checkstudent==400:
             	return Response("Invalid Webkiosk Crediatils",status=400)
             else:
